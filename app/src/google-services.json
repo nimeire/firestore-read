@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "618790279794",
+    "project_id": "firestore-read-d9a47",
+    "storage_bucket": "firestore-read-d9a47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618790279794:android:73cbe31f3fd9e03a0740eb",
+        "android_client_info": {
+          "package_name": "br.edu.fatecpg.firestore_read"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfokNnvwcOSy7qNi3xBsUR-m65IQqLgLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618790279794:android:ca75b6b2d264ad260740eb",
+        "android_client_info": {
+          "package_name": "br.edu.fatecpg.firestoreread"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfokNnvwcOSy7qNi3xBsUR-m65IQqLgLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
